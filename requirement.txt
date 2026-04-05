@@ -1,0 +1,8 @@
+crewai==0.28.8
+crewai-tools
+langchain-groq
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
