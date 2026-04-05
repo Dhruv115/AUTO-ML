@@ -17,6 +17,7 @@ Python · CrewAI · LangChain · Groq · Scikit-learn
 ```bash
 pip install -r requirement.txt
 # Add your GROQ_API_KEY to a .env file
+# ADD CSV Path
 python main.py
 ```
 
